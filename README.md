@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/countchrisdo/C32-Discord-Bot">
+  <a href="https://github.com/countchrisdo/C32-discord-bot">
     <img src="https://cdn.onlinewebfonts.com/svg/img_11111.png" alt="Logo" width="100" height="80">
   </a>
 
